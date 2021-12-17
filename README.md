@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/96259055/146585330-8a676512-5af2-499e-9be3-4955b07216c5.png)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
